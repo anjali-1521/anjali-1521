@@ -1,4 +1,4 @@
-<div align="center">
+\<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20there,%20I'm%20Anjali%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20messy%20data%20into%20decisions,%20one%20pipeline%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
 
@@ -27,6 +27,7 @@ cgpa: 8.35
 focus: [Data Analytics, Machine Learning, Software Development]
 currently_building: Explainable Drug Repurposing System — Knowledge Graph Embeddings
 looking_for: Data Analyst · Business Analyst · SDE roles
+fun_fact: "I turn raw CSVs into dashboards people actually act on"
 ```
 
 <br/>
@@ -100,29 +101,6 @@ Capstone project — Bioinformatics + AI/ML
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anjali-1521&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-1521&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-1521&theme=tokyonight&hide_border=true&background=00000000" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-1521&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
 
 </div>
 
