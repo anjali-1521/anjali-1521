@@ -13,7 +13,7 @@
 
 ### 🧭 About Me
 
-- 🎓 B.Tech Computer Science Engineering, MIT World Peace University, Pune — Class of 2027 (CGPA 8.35)
+- 🎓 B.Tech Computer Science Engineering, MIT World Peace University, Pune — Class of 2027 (CGPA 8.39)
 - 🔍 Building end-to-end data pipelines — from raw data to SQL to ML to dashboards
 - 🎯 Targeting **Data Analyst**, **Business Analyst**, and **SDE** roles
 - 🧬 Also working on a capstone in explainable drug repurposing using knowledge graph embeddings
