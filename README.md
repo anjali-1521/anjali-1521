@@ -1,4 +1,3 @@
-\<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20there,%20I'm%20Anjali%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20messy%20data%20into%20decisions,%20one%20pipeline%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
 
