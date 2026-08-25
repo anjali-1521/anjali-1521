@@ -22,7 +22,7 @@ name: Anjali
 role: Final-year B.Tech CSE Student
 university: MIT World Peace University, Pune
 graduating: 2027
-cgpa: 8.35
+cgpa: 8.39
 focus: [Data Analytics, Machine Learning, Software Development]
 currently_building: Explainable Drug Repurposing System — Knowledge Graph Embeddings
 looking_for: Data Analyst · Business Analyst · SDE roles
