@@ -47,17 +47,6 @@ End-to-end supply chain analytics engine
 `Python` `SQL` `scikit-learn` `Tableau`
 
 </td>
-<td width="50%" valign="top">
-
-### 💊 RxIQ
-Pharma sales-force effectiveness & territory optimization
-- Built in the style of ZS Associates commercial analytics
-- Sales rep & territory performance modeling
-- Forecasting pipeline + Tableau dashboard
-
-`Python` `SQL` `Machine Learning` `Tableau`
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
