@@ -1,5 +1,6 @@
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20there,%20I'm%20Anjali%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20messy%20data%20into%20decisions,%20one%20pipeline%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Anjali%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20messy%20data%20into%20decisions,%20one%20pipeline%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="mailto:anjalianandkumarsingh@gmail.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Final-year+CSE+Student+%40+MIT-WPU%2C+Pune;Data+Analytics+%7C+Machine+Learning+%7C+SDE;Building+end-to-end+data+%E2%86%92+insight+pipelines;Open+to+Data+%2F+Business+Analyst+%26+SDE+roles" alt="Typing SVG" />
@@ -18,15 +19,15 @@
 ## 🧭 About Me
 
 ```yaml
-name: Anjali
+name: Anjali Singh
 role: Final-year B.Tech CSE Student
 university: MIT World Peace University, Pune
 graduating: 2027
-cgpa: 8.39
+cgpa: 8.40
 focus: [Data Analytics, Machine Learning, Software Development]
+enjoys: Machine Learning — building models that predict and explain
 currently_building: Explainable Drug Repurposing System — Knowledge Graph Embeddings
 looking_for: Data Analyst · Business Analyst · SDE roles
-fun_fact: "I turn raw CSVs into dashboards people actually act on"
 ```
 
 <br/>
@@ -47,8 +48,6 @@ End-to-end supply chain analytics engine
 `Python` `SQL` `scikit-learn` `Tableau`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔥 Emotion Arc Virality Prediction
@@ -60,6 +59,8 @@ Predicts Reddit post virality from emotional dynamics
 `Python` `Jupyter` `Streamlit` `NLP`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧬 Explainable Drug Repurposing *(in progress)*
@@ -71,6 +72,7 @@ Capstone project — Bioinformatics + AI/ML
 `Python` `Knowledge Graphs` `ML`
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -81,11 +83,10 @@ Capstone project — Bioinformatics + AI/ML
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -98,7 +99,7 @@ Capstone project — Bioinformatics + AI/ML
 
 ### 📫 Let's Connect
 
-I'm always up for a conversation about data, analytics, or interesting problems to solve.
+I'm always up for a conversation about data, analytics, machine learning, or interesting problems to solve.
 
 **anjalianandkumarsingh@gmail.com**
 
